@@ -16,4 +16,9 @@ body {
     background-color: #E5E5E5;
     border-width: 10px;
     border-color: #FCA311;
+    border-style: solid;
+}
+
+.first-card {
+    justify-content: left;
 }
