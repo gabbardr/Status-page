@@ -1,9 +1,19 @@
 body {
     background-color: #14213D;
+    display: grid;
 }
 
 .First-Header {
-    font-size: "2em";
+    font-size: "3em";
     color: #FFFFFF;
     font-style: italic;
+}
+
+.status-card {
+    max-width: 300px;
+    margin: auto;
+    text-align: left;
+    background-color: #E5E5E5;
+    border-width: 10px;
+    border-color: #FCA311;
 }
