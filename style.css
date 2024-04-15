@@ -1,9 +1,9 @@
 body {
-    background-color: 14213D;
+    background-color: #14213D;
 }
 
 .First-Header {
-    font-size: 2em;
-    color: FFFFFF;
+    font-size: "2em";
+    color: #FFFFFF;
     font-style: italic;
 }
