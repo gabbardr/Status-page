@@ -11,7 +11,6 @@ body {
 
 .status-card {
     max-width: 300px;
-    
     margin: auto;
     padding: 10px;
     text-align: left;
@@ -30,5 +29,6 @@ body {
 .row:after{
     display: table;
     clear: both;
+    padding-top: 30px;
 }
 
