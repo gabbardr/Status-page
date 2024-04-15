@@ -10,9 +10,8 @@ img {
     max-width: 400px;
 }
 
-.image-container {
-    padding-left: 0;
-    padding-top: 0;
+.para-container {
+    padding-left: 10px;
 }
 
 .First-Header {
@@ -25,7 +24,6 @@ img {
 .status-card {
     max-width: 400px;
     margin: auto;
-    padding: 10px;
     text-align: left;
     background-color: #E5E5E5;
     border-width: 10px;
