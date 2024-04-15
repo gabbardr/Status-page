@@ -7,11 +7,13 @@ body {
     font-size: 4em;
     color: #FFFFFF;
     font-style: italic;
+    margin-top: 0%;
 }
 
 .status-card {
     max-width: 300px;
     margin: auto;
+    padding: 10px;
     text-align: left;
     background-color: #E5E5E5;
     border-width: 10px;
