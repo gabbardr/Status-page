@@ -22,7 +22,7 @@ img {
 }
 
 .status-card {
-    max-width: 400px;
+    max-width: 350px;
     margin: auto;
     text-align: left;
     background-color: #E5E5E5;
@@ -34,7 +34,7 @@ img {
 
 .columns {
     float: left;
-    width: 29%;
+    width: 33%;
     padding-bottom: 50px;
 }
 
