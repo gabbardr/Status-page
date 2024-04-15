@@ -23,7 +23,7 @@ img {
 
 .status-card {
     max-width: 450px;
-    margin: auto;
+    margin: 10px;
     text-align: left;
     background-color: #E5E5E5;
     border-width: 10px;
