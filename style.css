@@ -11,6 +11,7 @@ body {
 
 .status-card {
     max-width: 300px;
+    min-height: 300px;
     margin: auto;
     padding: 10px;
     text-align: left;
