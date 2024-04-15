@@ -17,6 +17,7 @@ body {
     border-width: 10px;
     border-color: #FCA311;
     border-style: solid;
+    border-radius: 50px;
 }
 
 .first-card {
