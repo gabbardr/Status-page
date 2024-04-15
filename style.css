@@ -22,6 +22,16 @@ body {
     border-radius: 50px;
 }
 
+.columns {
+    float: left;
+    width: 33%;
+}
+
+.row:after{
+    display: table;
+    clear: both;
+}
+
 .first-card {
     justify-content: left;
 }
