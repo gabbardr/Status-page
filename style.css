@@ -6,6 +6,15 @@ h2 {
     font-size: 2em;
 }
 
+img {
+    max-width: 400px;
+}
+
+.image-container {
+    padding-left: 0;
+    padding-top: 0;
+}
+
 .First-Header {
     font-size: 4em;
     color: #FFFFFF;
