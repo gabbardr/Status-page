@@ -2,6 +2,10 @@ body {
     background-color: #14213D;
 }
 
+h2 {
+    font-size: 2em;
+}
+
 .First-Header {
     font-size: 4em;
     color: #FFFFFF;
@@ -10,7 +14,7 @@ body {
 }
 
 .status-card {
-    max-width: 300px;
+    max-width: 400px;
     margin: auto;
     padding: 10px;
     text-align: left;
@@ -24,7 +28,7 @@ body {
 .columns {
     float: left;
     width: 33%;
-    padding-bottom: 20px;
+    padding-bottom: 30px;
 }
 
 .row:after{
