@@ -33,9 +33,10 @@ img {
 }
 
 .columns {
-    float: left;
-    width: 33%;
+  
+    width: 33.3%;
     padding-bottom: 50px;
+    display: inline-block;
 }
 
 .row:after{
